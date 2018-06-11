@@ -297,11 +297,11 @@ render() {
 
 추후에 시간이 허락한다면 TOAST UI Calendar에 소개한 기법을 적용하여 렌더링 성능을 개선해 보고자 한다.
 
-이 글에서 만든 예제는 깃허브에서 확인해볼 수 있다.
+이 글에서 만든 예제는 [깃허브](https://github.com/dongsik-yoo/my-custom-framework.git)에서 확인해볼 수 있다.
 
-실행 방법
-```js
-git clone 
+**실행 방법**
+```cmd
+git clone https://github.com/dongsik-yoo/my-custom-framework.git
 npm install
 npm run serve
 ```
